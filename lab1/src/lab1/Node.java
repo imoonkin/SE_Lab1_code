@@ -1,4 +1,4 @@
-package lab1;
+﻿package lab1;
 
 import java.util.List;
 import java.util.Map;
@@ -6,7 +6,7 @@ import java.util.Map;
 import static java.lang.Math.pow;
 
 public class Node {
-	// 节点内的表达式
+	// 节a点内的表达式
 	private List<String> s;
 	// 左侧表达式，右侧表达式
 	public Node left = null, right = null;
